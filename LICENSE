@@ -1,52 +1,36 @@
-LICENSE
+**AIRAS Personal Use License (APL-1.0)**  
 
-Copyright (c) 2025 Atah Alam (Zyxciss)
-All rights reserved.
+Copyright (c) 2025 Atah Alam (Zyxciss)  
+All rights reserved.  
 
-1. Usage Rights
+---  
 
-This software is provided strictly for personal and local use only.
+## **1. Usage Rights**  
+- This software is provided **strictly for personal and local use only**.  
+- **Commercial use is strictly prohibited** without explicit written permission from the author.  
+- **Redistribution, modification, or derivative works** are allowed **only for personal use** and must:  
+  - **Remain open-source under the MIT License** to allow further improvements by the community.  
+  - **Retain all original author credits** and clearly state that the original work was created by Atah Alam (Zyxciss) and AIRAS INC.  
 
-Commercial use is strictly prohibited without explicit written permission from the author.
+## **2. Commercial Use & Redistribution Restrictions**  
+- If this software is used, modified, or redistributed **for any commercial purpose**, the user **must obtain prior written permission** from the author.  
+- Unauthorized **commercial use, modification, or redistribution will result in legal action**.  
 
-Redistribution, modification, or derivative works are allowed only for personal use and must:
+## **3. Open-Source Requirement for Personal Use Modifications**  
+- Any personal-use modifications, forks, or derivative works **must be open-sourced** under the **MIT License**.  
+- The source code must be made publicly available to contribute back to the project.  
+- The modified version must clearly acknowledge the original author and maintain a reference to this license.  
 
-Remain open-source under the MIT License to allow further improvements by the community.
+## **4. Patent Protection & Legal Enforcement**  
+- This project and its underlying idea **are patented**.  
+- Any unauthorized copying, adaptation, or commercial use without consent **will result in a lawsuit** under applicable intellectual property laws.  
+- The author reserves the right to **take legal action against any individual or entity** violating these terms.  
 
-Retain all original author credits and clearly state that the original work was created by Atah Alam (Zyxciss) and AIRAS INC.
+## **5. Disclaimer & Liability**  
+- This software is provided **"as is"**, without any warranties, express or implied.  
+- The author is **not responsible** for any misuse, data loss, or damage arising from the use of this software.  
 
+---  
 
+By using this software, you agree to **comply with all the above terms**. Any violation will be subject to legal consequences.
 
-2. Commercial Use & Redistribution Restrictions
-
-If this software is used, modified, or redistributed for any commercial purpose, the user must obtain prior written permission from the author.
-
-Unauthorized commercial use, modification, or redistribution will result in legal action.
-
-
-3. Open-Source Requirement for Personal Use Modifications
-
-Any personal-use modifications, forks, or derivative works must be open-sourced under the MIT License.
-
-The source code must be made publicly available to contribute back to the project.
-
-The modified version must clearly acknowledge the original author and maintain a reference to this license.
-
-
-4. Patent Protection & Legal Enforcement
-
-This project and its underlying idea are patented.
-
-Any unauthorized copying, adaptation, or commercial use without consent will result in a lawsuit under applicable intellectual property laws.
-
-The author reserves the right to take legal action against any individual or entity violating these terms.
-
-
-5. Disclaimer & Liability
-
-This software is provided "as is", without any warranties, express or implied.
-
-The author is not responsible for any misuse, data loss, or damage arising from the use of this software.
-
-
-By using this software, you agree to comply with all the above terms. Any violation will be subject to legal consequences.
