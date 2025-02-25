@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP32-CAM AI Vision & TTS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ESP32-CAM AI Vision & TTS</h1>
+        
+        <div class="image-section">
+            <h2>Latest Capture</h2>
+            <img id="captured-image" src="" alt="No image captured yet" style="display: none;">
+            <p id="no-image">Waiting for image capture...</p>
+        </div>
+
+        <div class="description-section">
+            <h2>Image Description</h2>
+            <p id="image-description">No description available</p>
+        </div>
+
+        <div class="audio-section">
+            <h2>Audio Playback</h2>
+            <audio id="audio-player" controls style="display: none;">
+                Your browser does not support the audio element.
+            </audio>
+            <p id="no-audio">No audio available</p>
+        </div>
+
+        <div class="status-section">
+            <h2>System Status</h2>
+            <p id="status-message">Waiting for ESP32-CAM connection...</p>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
